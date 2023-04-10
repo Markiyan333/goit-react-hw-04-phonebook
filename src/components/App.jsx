@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { nanoid } from 'nanoid';
-import { FormContact } from './FormContact/FormContact';
+import FormContact  from './FormContact/FormContact';
 import { ContactFilter } from './ContactFilter/ContactFilter';
 import { Contacts } from './Contacts/Contacts';
 
